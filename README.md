@@ -55,7 +55,7 @@ def PlotFilterFunction(b,fs):
 ```
 
 Which plots:
-![Filter created in Python](documentation\imageSource\pythonFilter.png)
+![Filter created in Python](documentation/imageSource/pythonFilter.png)
 
 ## Python Filter implementation
 
@@ -106,7 +106,7 @@ def fft(x, fs, SegmentLength):
 
 This generates the following responce which is of the correct form:
 
-![Filtered white noise](documentation\imageSource\filteredWhiteNoise.png)
+![Filtered white noise](documentation/imageSource/filteredWhiteNoise.png)
 
 
 # Creating a VHDL filter
@@ -194,4 +194,4 @@ make SIM=ghdl TOPLEVEL_LANG=vhdl
 ```
 
 Which generates:
-![HDLoutput](documentation\imageSource\HDLoutput.png)
+![HDLoutput](documentation/imageSource/HDLoutput.png)
