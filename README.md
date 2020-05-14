@@ -25,7 +25,7 @@ Stop Band Suppression: ASB : 60
 
 This generates a filter with the following responce.
 
-![pyFDA output](documentation\imageSource\pyFDAoutput.png)
+![pyFDA output](documentation/imageSource/pyFDAoutput.png)
 
 
 ### Python
